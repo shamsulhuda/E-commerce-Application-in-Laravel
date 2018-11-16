@@ -6,9 +6,8 @@
 [![Star Status](https://img.shields.io/github/stars/Laracommerce/laracom.svg)](https://github.com/Laracommerce/laracom)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/larac0m/Lobby)
 
-# Laravel FREE E-Commerce Software
+# Laravel E-Commerce App
 
-- See full [documentation](https://shop.laracom.net/docs)
 
 # Author
 
