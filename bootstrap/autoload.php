@@ -12,6 +12,10 @@ define('LARAVEL_START', microtime(true));
 | into the script here so we do not have to manually load any of
 | our application's PHP classes. It just feels great to relax.
 |
+"dependencies": {
+  "bootstrap": ">=4.1.2"
+}
 */
+
 
 require __DIR__.'/../vendor/autoload.php';
