@@ -8,7 +8,3 @@
 
 # Laravel E-Commerce App
 
-
-# Author
-
-[Jeff Simons Decena](https://jsdecena.me)
